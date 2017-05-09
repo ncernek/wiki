@@ -1,2 +1,3 @@
-# wiki
-Record steps for all config here.
+# A wiki of everything
+
+
