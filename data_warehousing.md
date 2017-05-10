@@ -13,4 +13,4 @@ When you've several business processes with the same dimensions,There's a Tempta
 ![alt text][tables]
 
 
-[tables]:wiki/Procurement-tables.png
+[tables]:https://github.com/ncernek/wiki/Procurement-tables.png
